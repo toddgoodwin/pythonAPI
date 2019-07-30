@@ -1,0 +1,4 @@
+successful
+error div 0
+<class 'ValueError'>
+<class 'KeyboardInterrupt'>
